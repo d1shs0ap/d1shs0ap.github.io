@@ -8,6 +8,8 @@ profile:
   align: right
   image: sg_prof.jpg
   image_circular: false # crops the image to make it circular
+
+social: true
 ---
 
 Welcome, welcome! I am a Master's student in the [Machine Learning Department](https://www.ml.cmu.edu/) at CMU. 
